@@ -8,7 +8,7 @@ This project was developed as part of the Design and Implementation of Mobile Ap
 ## Team
 - **Developers:** Gabriele Shu, Ram Jaskaran
 - **Course Instructors:** Prof. Luciano Baresi
-- 
+  
 <img width="602" alt="Screenshot 2024-02-10 alle 12 21 59" src="https://github.com/gabrizuzu/DreamyTales/assets/75883129/1268ecc9-4af1-4aae-b6be-825304499022">
 
 ## Project Description
